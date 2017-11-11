@@ -1,0 +1,246 @@
+NOTE_KEY,NOTE_NAME,NOTE_AUX,NOTE_LABEL,NOTE_TYPE
+conf/sbs/2004,972-8865-17-1,,,isbn
+conf/icdar/1995-2,0-8186-7128-9,,,isbn
+conf/icdar/2015hip,relocated from Gammarth Tunisia,,,
+conf/icdar/2015,relocated from Tunis Tunisia,,,
+conf/eurovav/1993,Sponsored by: Commission of the European Communities Comisión Interministral de Ciencia y Tecnología; Organized by: Universitat de les Illes Balears Universidad Politécnica de Madrid Institut d'Investigació en Intelligencia Artificial,,,
+conf/wsc/1999-2,0-7803-5780-9,,,isbn
+conf/wis/2005,972-8865-21-X,,,isbn
+conf/wimob/2005-2,0-7803-9181-0,,,isbn
+conf/wimob/2005-3,0-7803-9181-0,,,isbn
+conf/wimob/2005-4,0-7803-9181-0,,,isbn
+conf/birthday/2010meyer,Festschrift for Bertrand Meyer on the Occasion of His 60th Birthday November 2010,,,
+conf/csedu/2009-2,978-989-8111-82-1,,,isbn
+conf/csedu/2016-2,978-989-758-179-3,,,isbn
+conf/mwe/2013,978-1-937284-47-3,,,isbn
+conf/sc/2014hust,978-1-4799-7023-0,,,isbn
+conf/sc/2014hptcdl,978-1-4799-7020-9,,,isbn
+conf/ssst/2013,978-1-937284-47-3,,,isbn
+conf/ispw/1985,ACM SIGSOFT Software Engineering Notes 11(4) August 1986,,,
+conf/edoc/2014w,978-1-4799-5470-4,,,isbn
+conf/ACMse/2005-2,1-59593-059-0,,,isbn
+conf/hopl/1993,SIGPLAN Notices 28(3) March 1993,,,
+conf/springsim/2011-2,1-930638-56-6,,,isbn
+conf/bea/2012,978-1-937284-20-6,,,isbn
+conf/bea/2013,978-1-937284-47-3,,,isbn
+conf/icpp/1989-3,0-271-00686-2,,,isbn
+conf/icpp/1988-2,0-271-00654-4,,,isbn
+conf/icpp/1990-2,0-271-00728-1,,,isbn
+conf/icpp/1996-3,0-8186-7623-X,,,isbn
+conf/icpp/1996-2,0-8186-7623-X,,,isbn
+conf/icpp/1989-2,0-271-00686-2,,,isbn
+conf/icpp/1996-w,0-8186-7623-X,,,isbn
+conf/icpp/1990-3,0-271-00728-1,,,isbn
+conf/cloudcom/2013-2,978-0-7695-5095-4,,,isbn
+conf/idl/1994,SIGPLAN Notices 29(8) August 1994,,,
+conf/ic3k/2016keod,978-989-758-203-5,,,isbn
+conf/ic3k/2016kmis,978-989-758-203-5,,,isbn
+conf/ic3k/2015keod,978-989-758-158-8,,,isbn
+conf/ic3k/2015kmis,978-989-758-158-8,,,isbn
+conf/sigmod/85,SIGMOD Record 14(4) December 1985,,,
+conf/sigmod/88,SIGMOD Record 17(3) September 1988,,,
+conf/sigmod/99,SIGMOD Record 28(2) June 1999,,,
+conf/sigmod/83,SIGMOD Record 13(4),,,
+conf/sigmod/84,SIGMOD Record 14(2),,,
+conf/sigmod/89,SIGMOD Record 18(2) June 1989,,,
+conf/sigmod/90,SIGMOD Record 19(2) June 1990,,,
+conf/sigmod/92,SIGMOD Record 21(2) June 1992,,,
+conf/sigmod/91,SIGMOD Record 20(2) June 1991,,,
+conf/sigmod/87,SIGMOD Record 16(3) December 1987,,,
+conf/sigmod/86,SIGMOD Record 15(2) June 1986,,,
+conf/popl/2003,ACM SIGPLAN Notices 38(1) January 2003,,,
+conf/popl/2001,ACM SIGPLAN Notices 36(3) March 2001,,,
+conf/popl/2002,ACM SIGPLAN Notices 37(1) January 2002,,,
+conf/paciia/2008-2,978-0-7695-3490-9,,,isbn
+conf/iceis/2008-3-2,978-989-8111-38-8,,,isbn
+conf/imsccs/2006-2,0-7695-2581-4,,,isbn
+conf/osdi/2002,Operating Systems Review 36 Special Issue Winter 2002,,,
+conf/osdi/1996,Operating Systems Review 30 Special Issue October 1996,,,
+conf/dh/2013-2,978-1-4799-3168-2,,,isbn
+conf/wmt/2012,978-1-937284-20-6,,,isbn
+conf/ijcnn/2000-2,0-7695-0619-4,,,isbn
+conf/ijcnn/2000-5,0-7695-0619-4,,,isbn
+conf/ijcnn/2000-4,0-7695-0619-4,,,isbn
+conf/ijcnn/2000-6,0-7695-0619-4,,,isbn
+conf/ijcnn/2000-3,0-7695-0619-4,,,isbn
+conf/idaacs/2011-2,978-1-4577-1426-9,,,isbn
+conf/vldb/78,IEEE Catalog Number 78CH1389-6C,,,
+conf/vldb/78,Library of Congress Number 78-67197,,,
+conf/vldb/80,IEEE Catalog Number 80CH1534-7C,,,
+conf/vldb/80,Library of Congress Number 79-93333,,,
+conf/vldb/79,IEEE Catalog Number 79CH1406-8C,,,
+conf/vldb/79,Library of Congress Number 7987908,,,
+conf/ictai/2010-2,978-0-7695-4263-8,,,isbn
+conf/ictai/2007-2,0-7695-3015-X,,,isbn
+conf/ictai/2008-2,978-0-7695-3440-4,,,isbn
+conf/iat/2009w,978-0-7695-3801-3,,,isbn
+conf/iat/2009,978-0-7695-3801-3,,,isbn
+conf/iat/2012,978-1-4673-6057-9,,,isbn
+conf/iat/2011,978-0-7695-4513-4,,,isbn
+conf/iat/2008,978-0-7695-3496-1,,,isbn
+conf/iat/2011w,978-0-7695-4513-4,,,isbn
+conf/iat/2008w,978-0-7695-3496-1,,,isbn
+conf/iat/2010w,978-0-7695-4191-4,,,isbn
+conf/iat/2013w,978-1-4799-2902-3,,,isbn
+conf/iat/2012w,978-1-4673-6057-9,,,isbn
+conf/iat/2013,978-1-4799-2902-3,,,isbn
+conf/iat/2010,978-0-7695-4191-4,,,isbn
+conf/hci/1997-2,0-444-82183-X,,,isbn
+conf/hci/1993-2,0-444-89540-X,,,isbn
+conf/cscl/2009-2,978-1-4092-8598-4,,,isbn
+conf/itcc/2005-2,isbn: 0-7695-2315-3,,,
+conf/itcc/2004-2,isbn: 0-7695-2108-8,,,
+conf/wise/2001-2,0-7695-1393-X,,,isbn
+conf/wise/2000-2,0-7695-0577-5,,,isbn
+conf/ncm/2008-2,978-0-7695-3322-3,,,isbn
+conf/aaai/2016trust,978-1-57735-759-9,,,isbn
+conf/aaai/2016np,978-1-57735-759-9,,,isbn
+conf/aaai/2016wwwhi,978-1-57735-759-9,,,isbn
+conf/aaai/2016data,978-1-57735-759-9,,,isbn
+conf/aaai/2016cognitive,978-1-57735-759-9,,,isbn
+conf/aaai/2016text,978-1-57735-759-9,,,isbn
+conf/aaai/2016grid,978-1-57735-759-9,,,isbn
+conf/aaai/2016ma,978-1-57735-759-9,,,isbn
+conf/aaai/1994-2,0-262-61102-3,,,isbn
+conf/aaai/2016health,978-1-57735-759-9,,,isbn
+conf/aaai/2016poker,978-1-57735-759-9,,,isbn
+conf/aaai/2016learning,978-1-57735-759-9,,,isbn
+conf/aaai/2016hybrid,978-1-57735-759-9,,,isbn
+conf/aaai/2016security,978-1-57735-759-9,,,isbn
+conf/aaai/1996-2,0-262-51091-X,,,isbn
+conf/aaai/2016ethics,978-1-57735-759-9,,,isbn
+conf/aaai/1991-2,0-262-51059-6,,,isbn
+conf/closer/2016-2,978-989-758-182-3,,,isbn
+conf/icce/2002-2,07695-1509-6,,,isbn
+conf/icfp/1999,SIGPLAN Notices 34(9) September 1999,,,
+conf/icfp/1998,SIGPLAN Notices 34(1) January 1999,,,
+conf/icfp/2001,SIGPLAN Notices 36(10) October 2001,,,
+conf/icfp/2002,SIGPLAN Notices 37(9) September 2002,,,
+conf/icfp/2000,SIGPLAN Notices 35(9) September 2000,,,
+conf/icfp/1996,SIGPLAN Notices 31(6) June 1996,,,
+conf/icfp/1997,SIGPLAN Notices 32(8) August 1997,,,
+conf/gi/1998dmdw,Preprint Nr. 14,,,
+conf/ihc/2012c,978-85-7669-262-1,,,isbn
+conf/conll/2009st,978-1-932432-29-9,,,isbn
+conf/sac/2000-2,1-58113-240-9,,,isbn
+conf/iaai/2013,978-1-57735-615-8,,,isbn
+conf/webi/2014-3,978-1-4799-4143-8,,,isbn
+conf/webi/2015-2,978-1-4673-9618-9,,,isbn
+conf/webi/2015-3,978-1-4673-9618-9,,,isbn
+conf/webi/2014-2,978-1-4799-4143-8,,,isbn
+conf/icinco/2008ra2,978-989-8111-31-9,,,isbn
+conf/icinco/2007icso,978-972-8865-82-5,,,isbn
+conf/icinco/2016-2,978-989-758-198-4,,,isbn
+conf/icinco/2007ra2,978-972-8865-83-2,,,isbn
+conf/icmla/2012-2,978-1-4673-4651-1,,,isbn
+conf/icmla/2013-2,978-0-7695-5144-9,,,isbn
+conf/icmla/2011-2,978-0-7695-4607-0,,,isbn
+conf/isspa/2003-2,0-7803-7946-2,,,isbn
+conf/naacl/2009o,978-1-932432-42-8,,,isbn
+conf/naacl/2009d,978-1-932432-42-8,,,isbn
+conf/cis/2009-2,978-0-7695-3931-7,,,isbn
+conf/cis/2008-2,978-0-7695-3508-1,,,isbn
+conf/sosp/1987,Operating System Review 21(5),,,
+conf/sosp/1999,Operating System Review 33(5),,,
+conf/sosp/2001,Operating System Review 35(5),,,
+conf/sosp/1993,Operating System Review 27(5),,,
+conf/sosp/1989,Operating System Review 23(5),,,
+conf/sosp/1991,Operating System Review 25(5),,,
+conf/sosp/1977,Operating System Review 11(5),,,
+conf/sosp/1975,Operating System Review 9(5) Special Issue,,,
+conf/sosp/95,Operating System Review 29(5),,,
+conf/sosp/1983,Operating System Review 17(5),,,
+conf/sosp/1973,Operating System Review 7(4),,,
+conf/sosp/1979,Operating System Review 13(5),,,
+conf/sosp/1971,Operating System Review 6(1-2),,,
+conf/sosp/1981,Operating System Review 15(5),,,
+conf/sosp/1985,Operating System Review 19(5),,,
+conf/sosp/1997,Operating System Review 31(5),,,
+conf/visapp/2009-2,978-989-8111-69-2,,,isbn
+conf/visapp/2008-2,978-989-8111-21-0,,,isbn
+conf/fskd/2008-5,978-0-7695-3305-6,,,isbn
+conf/fskd/2007-2,0-7695-2874-0,,,isbn
+conf/fskd/2007-3,0-7695-2874-0,,,isbn
+conf/fskd/2008-2,978-0-7695-3305-6,,,isbn
+conf/fskd/2008-4,978-0-7695-3305-6,,,isbn
+conf/fskd/2007-4,0-7695-2874-0,,,isbn
+conf/fskd/2008-3,978-0-7695-3305-6,,,isbn
+conf/wassa/2013,978-1-937284-47-3,,,isbn
+conf/3dim/2014-2,978-1-4799-7000-1,,,isbn
+conf/clfl/2012,978-1-937284-20-6,,,isbn
+conf/clfl/2013,978-1-937284-47-3,,,isbn
+conf/eScience/2014w,978-1-4799-4288-6,,,isbn
+conf/IEEEcit/2009-2,978-0-7695-3836-5,,,isbn
+conf/focs/FOCS31b,0-8186-2082-X,,,isbn
+conf/sde/1984,SIGSOFT Software Engineering Notes 9(3) May 1984,,,
+conf/sde/1984,SIGPLAN Notices 19 (5) May 1984,,,
+conf/ifip6-8/2002,Volume 106 at Springer,,,
+conf/euc/2008-2,978-0-7695-3492-3,,,isbn
+conf/wecwis/2015-2,978-1-4673-7340-1,,,isbn
+conf/wecwis/2014-2,978-1-4799-5778-1,,,isbn
+conf/icaart/2016-2,978-989-758-172-4,,,isbn
+conf/icsoft/2016-2,978-989-758-194-6,,,isbn
+conf/isvc/2006-2,3-540-48628-3,,,isbn
+conf/compsac/2005-2,0-7695-2413-3,,,isbn
+conf/compsac/2009-2,978-0-7695-3726-9,,,isbn
+conf/compsac/2006-2,0-7695-2655-1,,,isbn
+conf/compsac/2007-2,978-0-7695-2870-0,,,isbn
+conf/compsac/2004w,0-7695-2209-2,,,isbn
+conf/rtcsa/2011-2,978-1-4577-1118-3,,,isbn
+conf/bmei/2008-2,978-0-7695-3118-2,,,isbn
+conf/jfsma/2003,Revue des Sciences et Technologies de l'Information (RSTI) Special Issue,,,
+conf/cscwd/2005-2,1-84600-002-5,,,isbn
+conf/iwpt/2011,978-1-932432-04-6,,,isbn
+conf/biostec/2008hi2,978-989-8111-16-6,,,isbn
+conf/biostec/2008bd2,978-989-8111-17-3,,,isbn
+conf/biostec/2008bs2,978-989-8111-18-0,,,isbn
+conf/mdm/2015-2,978-1-4799-9972-9,,,isbn
+conf/mdm/2013-2,978-1-4673-6068-5,,,isbn
+conf/mdm/2014-2,978-1-4799-5705-7,,,isbn
+conf/oopsla/1987,SIGPLAN Notices 22(12) / OOPSLA'87 Addendum to the Proceedings: SIGPLAN Notices 23(5) May 1988,,,
+conf/oopsla/1988,SIGPLAN Notices 23(11),,,
+conf/oopsla/1999,SIGPLAN Notices 34(10),,,
+conf/oopsla/1998,SIGPLAN Notices 33(10),,,
+conf/oopsla/2001,SIGPLAN Notices 36(11),,,
+conf/oopsla/1993,SIGPLAN Notices 28(10) / OOPSLA'93 Addendum to the Proceedings: OOPS Messenger 5(2) April 1994,,,
+conf/oopsla/1989,SIGPLAN Notices 24(10),,,
+conf/oopsla/1991,SIGPLAN Notices 26(11) / OOPSLA'91 Addendum to the Proceedings: OOPS Messenger 3(4) October 1992,,,
+conf/oopsla/1990,SIGPLAN Notices 25(10),,,
+conf/oopsla/2002,SIGPLAN Notices 37(11),,,
+conf/oopsla/1994,SIGPLAN Notices 29(10),,,
+conf/oopsla/1994,OOPSLA'94 Addendum to the Proceedings: OOPS Messenger 5(4) October 1994,,,
+conf/oopsla/2000,SIGPLAN Notices 34,,,
+conf/oopsla/1995,SIGPLAN Notices 30(10),,,
+conf/oopsla/1995,OOPSLA'95 Addendum to the Proceedings: OOPS Messenger 6(4) October 1995,,,
+conf/oopsla/1986,SIGPLAN Notices 21(11),,,
+conf/oopsla/1992,SIGPLAN Notices 27(10) / OOPSLA'92 Addendum to the Proceedings: OOPS Messenger 4(2) April 1993,,,
+conf/oopsla/1996,SIGPLAN Notices 31(10),,,
+conf/oopsla/1997,SIGPLAN Notices 32(10),,,
+conf/icmcs/1999-2,0-7695-0253-9,,,isbn
+conf/icmcs/2002-2,0-7803-7304-9,,,isbn
+conf/csse/2008-5,978-0-7695-3336-0,,,isbn
+conf/csse/2008-6,978-0-7695-3336-0,,,isbn
+conf/csse/2008-2,978-0-7695-3336-0,,,isbn
+conf/csse/2008-4,978-0-7695-3336-0,,,isbn
+conf/csse/2008-3,978-0-7695-3336-0,,,isbn
+conf/mass/2012s,978-1-4673-2433-5,,,isbn
+conf/trustcom/2015-2,978-1-4673-7952-6,,,isbn
+conf/trustcom/2015-3,978-1-4673-7952-6,,,isbn
+conf/etfa/2001-2,0-7803-7241-7,,,isbn
+conf/etfa/2003-2,0-7803-7937-3,,,isbn
+conf/asplos/1987,SIGARCH Computer Architecture News 15(5) SIGOPS Operating System Review 21(4) SIGPLAN Notices 22(10),,,
+conf/asplos/1989,SIGARCH Computer Architecture News 17(2) SIGOPS Operating System Review 23(Special Issue April 1989) and SIGPLAN Notices 24(Special Issue May 1989),,,
+conf/asplos/1991,SIGARCH Computer Architecture News 19(2) SIGOPS Operating System Review 25(Special Issue April 1991) and SIGPLAN Notices 26(4),,,
+conf/asplos/1982,SIGARCH Computer Architecture News 10(2) SIGPLAN Notices 17(4),,,
+conf/apsec/2013-1,978-1-4799-2143-0,,,isbn
+conf/cso/2009-2,978-0-7695-3605-7,,,isbn
+conf/icse/2010-2,978-1-60558-719-6,,,isbn
+conf/icse/2008c,978-1-60558-079-1,,,isbn
+conf/icse/2015-2,ISBN 978-1-4799-1934-5 (Vol. I + II ???),,,
+conf/kes/1997-2,0-7803-3755-7,,,isbn
+conf/webist/2016-2,978-989-758-186-1,,,isbn
+conf/webist/2010-2,978-989-674-025-2,,,isbn
+conf/fgcn/2008-2,978-0-7695-3431-2,,,isbn
+conf/fgcn/2008-3,978-0-7695-3431-2,,,isbn
+conf/percom/2009w,978-1-4244-3304-9,,,isbn
+conf/biosig/2012,"additionally published as volume P-196 in the ""Lecture Notes in Informatics"" (LNI) series",,,
